@@ -1,1 +1,1 @@
-# awesome-wp-plugins-boilerplates
+# Awesome WordPress Plugins Boilerplates
